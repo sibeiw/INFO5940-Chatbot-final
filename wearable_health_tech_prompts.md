@@ -1,42 +1,44 @@
 # Wearable Health Tech Prompt Variations
 
-## Prompt Examples
+## Basic Prompts
 
-1. **基础问题**：
+1. **Simple Question:**
    ```
-   可穿戴健康技术有哪些好处？
-   ```
-
-2. **具体问题**：
-   ```
-   哪些可穿戴设备最适合监测心脏健康？
+   What are the benefits of wearable health technology?
    ```
 
-3. **背景信息**：
+2. **More Specific:**
    ```
-   在评估可穿戴健康技术时，哪些设备经过临床验证？
-   ```
-
-4. **技术视角**：
-   ```
-   传感器技术的局限性如何影响可穿戴设备的准确性？
+   What are the top 5 most accurate consumer wearable devices for monitoring heart health, and what specific metrics do they track?
    ```
 
-5. **未来发展**：
+3. **With Background:**
    ```
-   未来五年内，可穿戴健康技术可能有哪些突破？
+   I'm evaluating wearable health technology for a healthcare initiative. What are the most clinically validated wearable devices currently on the market, and what health conditions can they effectively monitor?
    ```
 
 ## Prompts with Context
 
-6. **Adding Personal Context:**
+4. **Adding Personal Context:**
    ```
    As someone with a family history of cardiovascular disease, which wearable health devices would be most useful for early detection of heart problems, and what specific metrics should I be monitoring?
    ```
 
-7. **Comparative Prompts:**
+5. **Technical Context:**
+   ```
+   From a biomedical engineering perspective, what are the current limitations in sensor technology that affect the accuracy of wearable health devices, and which companies are making the most progress in overcoming these limitations?
+   ```
+
+## Comparative Prompts
+
+6. **Comparing Applications:**
    ```
    How does the utility of wearable health technology differ between athletic performance optimization and chronic disease management? Are there devices that excel in both contexts?
+   ```
+
+7. **Future Developments:**
+   ```
+   What emerging wearable health technologies are currently in clinical trials or advanced development stages, and how might they transform preventative healthcare in the next 5 years compared to current devices?
    ```
 
 ## Results Analysis Template
