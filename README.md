@@ -33,15 +33,5 @@ For each prompt, we'll record:
 - Relevance of information
 - Any notable differences between prompt variations
 
-## Data Quality Considerations
-To ensure the reliability of our findings:
-
-- We'll verify that sources cited by the RAG model actually exist and contain the referenced information
-- We'll assess the recency and authority of retrieved sources
-- We'll run each prompt multiple times to check for consistency in results
-- We'll document any contradictions or inaccuracies in the retrieved information
-
-This approach helps ensure that our prompt engineering techniques are based on real, verifiable data rather than theoretical assumptions.
-
 ## Goal
 Determine which prompt engineering techniques most effectively help RAG models retrieve relevant information and generate useful answers.

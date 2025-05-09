@@ -1,44 +1,42 @@
 # Wearable Health Tech Prompt Variations
 
-## Basic Prompts
+## Prompt Examples
 
-1. **Simple Question:**
+1. **基础问题**：
    ```
-   What are the benefits of wearable health technology?
-   ```
-
-2. **More Specific:**
-   ```
-   What are the top 5 most accurate consumer wearable devices for monitoring heart health, and what specific metrics do they track?
+   可穿戴健康技术有哪些好处？
    ```
 
-3. **With Background:**
+2. **具体问题**：
    ```
-   I'm evaluating wearable health technology for a healthcare initiative. What are the most clinically validated wearable devices currently on the market, and what health conditions can they effectively monitor?
+   哪些可穿戴设备最适合监测心脏健康？
+   ```
+
+3. **背景信息**：
+   ```
+   在评估可穿戴健康技术时，哪些设备经过临床验证？
+   ```
+
+4. **技术视角**：
+   ```
+   传感器技术的局限性如何影响可穿戴设备的准确性？
+   ```
+
+5. **未来发展**：
+   ```
+   未来五年内，可穿戴健康技术可能有哪些突破？
    ```
 
 ## Prompts with Context
 
-4. **Adding Personal Context:**
+6. **Adding Personal Context:**
    ```
    As someone with a family history of cardiovascular disease, which wearable health devices would be most useful for early detection of heart problems, and what specific metrics should I be monitoring?
    ```
 
-5. **Technical Context:**
-   ```
-   From a biomedical engineering perspective, what are the current limitations in sensor technology that affect the accuracy of wearable health devices, and which companies are making the most progress in overcoming these limitations?
-   ```
-
-## Comparative Prompts
-
-6. **Comparing Applications:**
+7. **Comparative Prompts:**
    ```
    How does the utility of wearable health technology differ between athletic performance optimization and chronic disease management? Are there devices that excel in both contexts?
-   ```
-
-7. **Future Developments:**
-   ```
-   What emerging wearable health technologies are currently in clinical trials or advanced development stages, and how might they transform preventative healthcare in the next 5 years compared to current devices?
    ```
 
 ## Results Analysis Template

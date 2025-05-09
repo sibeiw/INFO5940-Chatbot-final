@@ -1,42 +1,42 @@
 # Food Safety Prompt Variations
 
-## Basic Prompts
+## Prompt Examples
 
-1. **Simple Question:**
+1. **基础问题**：
    ```
-   What are the most common food safety mistakes in home kitchens?
-   ```
-
-2. **More Specific:**
-   ```
-   What are the top 5 most dangerous food safety mistakes people make when cooking at home, and how can these be avoided?
+   家庭厨房中最常见的食品安全错误是什么？
    ```
 
-3. **With Background:**
+2. **具体问题**：
    ```
-   I'm developing a food safety guide for home cooks. What are the most critical food safety mistakes people make in their home kitchens, and what are the potential consequences of each?
+   在家烹饪时，哪些食品处理错误最容易导致食源性疾病？
+   ```
+
+3. **背景信息**：
+   ```
+   作为食品安全指南的作者，您认为家庭厨房中最关键的安全措施是什么？
+   ```
+
+4. **技术视角**：
+   ```
+   从微生物学的角度，哪些食品处理错误最容易导致细菌污染？
+   ```
+
+5. **比较分析**：
+   ```
+   美国和欧洲的食品安全标准有何不同？
    ```
 
 ## Prompts with Context
 
-4. **Adding Personal Context:**
+6. **Adding Personal Context:**
    ```
    As someone who frequently cooks for young children and elderly family members, what are the most important food safety practices I should follow to prevent foodborne illness in these vulnerable groups?
    ```
 
-5. **Technical Context:**
-   ```
-   From a microbiological perspective, what are the most dangerous food handling errors in domestic kitchens that lead to bacterial contamination, and at what temperatures/conditions do these bacteria multiply most rapidly?
-   ```
+7. **Comparative Prompts:**
 
-## Comparative Prompts
-
-6. **Comparing Perspectives:**
-   ```
-   How do food safety guidelines differ between FDA recommendations and actual practices in professional kitchens? Are there any professional techniques that home cooks should adopt?
-   ```
-
-7. **Geographic Comparison:**
+8. **Geographic Comparison:**
    ```
    How do food safety standards and common practices differ between the United States, Japan, and European countries? Are there international best practices that should be universally adopted?
    ```
