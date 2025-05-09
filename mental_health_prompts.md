@@ -1,30 +1,44 @@
 # Mental Health Prompt Variations
 
-## Prompt Examples
+## Basic Prompts
 
-1. **基础问题**：
+1. **Simple Question:**
    ```
-   有哪些有效的焦虑管理策略？
-   ```
-
-2. **具体问题**：
-   ```
-   不使用药物的情况下，管理焦虑症的最佳方法是什么？
+   What are effective strategies for managing anxiety?
    ```
 
-3. **背景信息**：
+2. **More Specific:**
    ```
-   为社区心理健康研讨会准备材料时，哪些自助策略最有效？
-   ```
-
-4. **技术视角**：
-   ```
-   从神经生物学的角度，哪些方法能有效减少焦虑症状？
+   What are the 5 most evidence-based techniques for managing generalized anxiety disorder without medication?
    ```
 
-5. **比较分析**：
+3. **With Background:**
    ```
-   认知行为疗法与正念疗法在焦虑管理中的效果如何？
+   I'm researching for a community workshop on mental health. What are the most effective self-help strategies for managing anxiety that are supported by recent clinical research?
+   ```
+
+## Prompts with Context
+
+4. **Adding Personal Context:**
+   ```
+   As someone working in a high-stress environment with frequent deadlines, what practical techniques could help manage work-related anxiety and prevent burnout?
+   ```
+
+5. **Technical Context:**
+   ```
+   From a neurobiological perspective, what anxiety management techniques have been shown to affect the amygdala and prefrontal cortex activity, and how do these correlate with symptom reduction in clinical studies?
+   ```
+
+## Comparative Prompts
+
+6. **Comparing Approaches:**
+   ```
+   How do cognitive-behavioral therapy (CBT) approaches to anxiety management compare with mindfulness-based interventions in terms of effectiveness, time to see benefits, and long-term outcomes?
+   ```
+
+7. **Cultural Comparison:**
+   ```
+   How do approaches to anxiety treatment differ between Western psychological practices and Eastern traditional methods? Are there cultural practices from around the world that show promise but lack formal research?
    ```
 
 ## Results Analysis Template
